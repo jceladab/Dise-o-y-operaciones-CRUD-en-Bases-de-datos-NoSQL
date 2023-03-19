@@ -1,0 +1,129 @@
+[{
+  "_id": 1,
+  "Equipo": "Argentina",
+  "_Puntos": 14
+},{
+  "_id": 2,
+  "Equipo": "Francia",
+  "_Puntos": 16
+},{
+  "_id": 3,
+  "Equipo": "Croacia",
+  "_Puntos": 10
+},{
+  "_id": 4,
+  "Equipo": "Marruecos",
+  "_Puntos": 11
+},{
+  "_id": 5,
+  "Equipo": "Paises Bajos",
+  "_Puntos": 11
+},{
+  "_id": 6,
+  "Equipo": "Inglaterra",
+  "_Puntos": 10
+},{
+  "_id": 7,
+  "Equipo": "Brasil",
+  "_Puntos": 10
+},{
+  "_id": 8,
+  "Equipo": "Portugal",
+  "_Puntos": 9
+},{
+  "_id": 9,
+  "Equipo": "Japon",
+  "_Puntos": 7
+},{
+  "_id": 10,
+  "Equipo": "Senegal",
+  "_Puntos": 6
+},{
+  "_id": 11,
+  "Equipo": "Australia",
+  "_Puntos": 6
+},{
+  "_id": 12,
+  "Equipo": "Suiza",
+  "_Puntos": 6
+},{
+  "_id": 13,
+  "Equipo": "España",
+  "_Puntos": 5
+},{
+  "_id": 14,
+  "Equipo": "Estados Unidos",
+  "_Puntos": 5
+},{
+  "_id": 15,
+  "Equipo": "Polonia",
+  "_Puntos": 4
+},{
+  "_id": 16,
+  "Equipo": "Corea del Sur",
+  "_Puntos": 4
+},{
+  "_id": 17,
+  "Equipo": "Alemania",
+  "_Puntos": 4
+},{
+  "_id": 18,
+  "Equipo": "Ecuador",
+  "_Puntos": 4
+},{
+  "_id": 19,
+  "Equipo": "Camerun",
+  "_Puntos": 4
+},{
+  "_id": 20,
+  "Equipo": "Uruguay",
+  "_Puntos": 4
+},{
+  "_id": 21,
+  "Equipo": "Tunez",
+  "_Puntos": 4
+},{
+  "_id": 22,
+  "Equipo": "Mexico",
+  "_Puntos": 4
+},{
+  "_id": 23,
+  "Equipo": "Belgica",
+  "_Puntos": 4
+},{
+  "_id": 24,
+  "Equipo": "Ghana",
+  "_Puntos": 3
+},{
+  "_id": 25,
+  "Equipo": "Arabia Saudita",
+  "_Puntos": 3
+},{
+  "_id": 26,
+  "Equipo": "Iran",
+  "_Puntos": 3
+},{
+  "_id": 27,
+  "Equipo": "Costa Rica",
+  "_Puntos": 3
+},{
+  "_id": 28,
+  "Equipo": "Dinamarca",
+  "_Puntos": 1
+},{
+  "_id": 29,
+  "Equipo": "Serbia",
+  "_Puntos": 1
+},{
+  "_id": 30,
+  "Equipo": "Gales",
+  "_Puntos": 1
+},{
+  "_id": 31,
+  "Equipo": "Canada",
+  "_Puntos": 0
+},{
+  "_id": 32,
+  "Equipo": "Catar",
+  "_Puntos": 0
+}]

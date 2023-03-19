@@ -1,0 +1,321 @@
+[{
+  "_id": 1,
+  "Fase": "Grupos",
+  "Grupo": "A",
+  "Juego": "Catar VS Ecuador"
+},{
+  "_id": 2,
+  "Fase": "Grupos",
+  "Grupo": "A",
+  "Juego": "Senegal VS Paises Bajos"
+},{
+  "_id": 3,
+  "Fase": "Grupos",
+  "Grupo": "A",
+  "Juego": "Catar VS Senegal"
+},{
+  "_id": 4,
+  "Fase": "Grupos",
+  "Grupo": "A",
+  "Juego": "Paises Bajos VS Ecuador"
+},{
+  "_id": 5,
+  "Fase": "Grupos",
+  "Grupo": "A",
+  "Juego": "Ecuador VS Senegal"
+},{
+  "_id": 6,
+  "Fase": "Grupos",
+  "Grupo": "A",
+  "Juego": "Paises Bajos VS Catar"
+},{
+  "_id": 7,
+  "Fase": "Grupos",
+  "Grupo": "B",
+  "Juego": "Inglaterra VS Iran"
+},{
+  "_id": 8,
+  "Fase": "Grupos",
+  "Grupo": "B",
+  "Juego": "Estados Unidos VS Gales"
+},{
+  "_id": 9,
+  "Fase": "Grupos",
+  "Grupo": "B",
+  "Juego": "Gales VS Iran"
+},{
+  "_id": 10,
+  "Fase": "Grupos",
+  "Grupo": "B",
+  "Juego": "Inglaterra VS Estados Unidos"
+},{
+  "_id": 11,
+  "Fase": "Grupos",
+  "Grupo": "B",
+  "Juego": "Gales VS Inglaterra"
+},{
+  "_id": 12,
+  "Fase": "Grupos",
+  "Grupo": "B",
+  "Juego": "Iran VS Estados Unidos"
+},{
+  "_id": 13,
+  "Fase": "Grupos",
+  "Grupo": "C",
+  "Juego": "Argentina VS Arabia Saudita"
+},{
+  "_id": 14,
+  "Fase": "Grupos",
+  "Grupo": "C",
+  "Juego": "Mexico VS Polonia"
+},{
+  "_id": 15,
+  "Fase": "Grupos",
+  "Grupo": "C",
+  "Juego": "Polonia VS Arabia Saudita"
+},{
+  "_id": 16,
+  "Fase": "Grupos",
+  "Grupo": "C",
+  "Juego": "Argentina VS Mexico"
+},{
+  "_id": 17,
+  "Fase": "Grupos",
+  "Grupo": "C",
+  "Juego": "Polonia VS Argentina"
+},{
+  "_id": 18,
+  "Fase": "Grupos",
+  "Grupo": "C",
+  "Juego": "Arabia Saudita VS Mexico"
+},{
+  "_id": 19,
+  "Fase": "Grupos",
+  "Grupo": "D",
+  "Juego": "Dinamarca VS Tunez"
+},{
+  "_id": 20,
+  "Fase": "Grupos",
+  "Grupo": "D",
+  "Juego": "Francia VS Australia"
+},{
+  "_id": 21,
+  "Fase": "Grupos",
+  "Grupo": "D",
+  "Juego": "Tunez VS Australia"
+},{
+  "_id": 22,
+  "Fase": "Grupos",
+  "Grupo": "D",
+  "Juego": "Francia VS Dinamarca"
+},{
+  "_id": 23,
+  "Fase": "Grupos",
+  "Grupo": "D",
+  "Juego": "Australia VS Dinamarca"
+},{
+  "_id": 24,
+  "Fase": "Grupos",
+  "Grupo": "D",
+  "Juego": "Tunez VS Francia"
+},{
+  "_id": 25,
+  "Fase": "Grupos",
+  "Grupo": "E",
+  "Juego": "Alemania VS Japon"
+},{
+  "_id": 26,
+  "Fase": "Grupos",
+  "Grupo": "E",
+  "Juego": "España VS Costa Rica"
+},{
+  "_id": 27,
+  "Fase": "Grupos",
+  "Grupo": "E",
+  "Juego": "Japon VS Costa Rica"
+},{
+  "_id": 28,
+  "Fase": "Grupos",
+  "Grupo": "E",
+  "Juego": "España VS Alemania"
+},{
+  "_id": 29,
+  "Fase": "Grupos",
+  "Grupo": "E",
+  "Juego": "Japon VS España"
+},{
+  "_id": 30,
+  "Fase": "Grupos",
+  "Grupo": "E",
+  "Juego": "Costa Rica VS Alemania"
+},{
+  "_id": 31,
+  "Fase": "Grupos",
+  "Grupo": "F",
+  "Juego": "Marruecos VS Croacia"
+},{
+  "_id": 32,
+  "Fase": "Grupos",
+  "Grupo": "F",
+  "Juego": "Belgica VS Canada"
+},{
+  "_id": 33,
+  "Fase": "Grupos",
+  "Grupo": "F",
+  "Juego": "Belgica VS Marruecos"
+},{
+  "_id": 34,
+  "Fase": "Grupos",
+  "Grupo": "F",
+  "Juego": "Croacia VS Canada"
+},{
+  "_id": 35,
+  "Fase": "Grupos",
+  "Grupo": "F",
+  "Juego": "Croacia VS Belgica"
+},{
+  "_id": 36,
+  "Fase": "Grupos",
+  "Grupo": "F",
+  "Juego": "Canada VS Marruecos"
+},{
+  "_id": 37,
+  "Fase": "Grupos",
+  "Grupo": "G",
+  "Juego": "Suiza VS Camerun"
+},{
+  "_id": 38,
+  "Fase": "Grupos",
+  "Grupo": "G",
+  "Juego": "Brasil VS Serbia"
+},{
+  "_id": 39,
+  "Fase": "Grupos",
+  "Grupo": "G",
+  "Juego": "Camerun VS Serbia"
+},{
+  "_id": 40,
+  "Fase": "Grupos",
+  "Grupo": "G",
+  "Juego": "Brasil VS Suiza"
+},{
+  "_id": 41,
+  "Fase": "Grupos",
+  "Grupo": "G",
+  "Juego": "Serbia VS Suiza"
+},{
+  "_id": 42,
+  "Fase": "Grupos",
+  "Grupo": "G",
+  "Juego": "Camerun VS Brasil"
+},{
+  "_id": 43,
+  "Fase": "Grupos",
+  "Grupo": "H",
+  "Juego": "Uruguay VS Corea del Sur"
+},{
+  "_id": 44,
+  "Fase": "Grupos",
+  "Grupo": "H",
+  "Juego": "Portugal VS Ghana"
+},{
+  "_id": 45,
+  "Fase": "Grupos",
+  "Grupo": "H",
+  "Juego": "Corea del Sur VS Ghana"
+},{
+  "_id": 46,
+  "Fase": "Grupos",
+  "Grupo": "H",
+  "Juego": "Portugal VS Uruguay"
+},{
+  "_id": 47,
+  "Fase": "Grupos",
+  "Grupo": "H",
+  "Juego": "Ghana VS Uruguay"
+},{
+  "_id": 48,
+  "Fase": "Grupos",
+  "Grupo": "H",
+  "Juego": "Corea del Sur VS Portugal"
+},{
+  "_id": 49,
+  "Fase": "Octavos de Final",
+  "Grupo": "AB",
+  "Juego": "Paises Bajos VS Estados Unidos"
+},{
+  "_id": 50,
+  "Fase": "Octavos de Final",
+  "Grupo": "CD",
+  "Juego": "Argentina VS Australia"
+},{
+  "_id": 51,
+  "Fase": "Octavos de Final",
+  "Grupo": "CD",
+  "Juego": "Francia VS Polonia"
+},{
+  "_id": 52,
+  "Fase": "Octavos de Final",
+  "Grupo": "AB",
+  "Juego": "Inglaterra VS Senegal"
+},{
+  "_id": 53,
+  "Fase": "Octavos de Final",
+  "Grupo": "EF",
+  "Juego": "Japon VS Croacia"
+},{
+  "_id": 54,
+  "Fase": "Octavos de Final",
+  "Grupo": "GH",
+  "Juego": "Brasil VS Corea del Sur"
+},{
+  "_id": 55,
+  "Fase": "Octavos de Final",
+  "Grupo": "EF",
+  "Juego": "Marruecos VS España"
+},{
+  "_id": 56,
+  "Fase": "Octavos de Final",
+  "Grupo": "GH",
+  "Juego": "Portugal VS Suiza"
+},{
+  "_id": 57,
+  "Fase": "Cuartos de Final",
+  "Grupo": "GF",
+  "Juego": "Brasil VS Croacia"
+},{
+  "_id": 58,
+  "Fase": "Cuartos de Final",
+  "Grupo": "AC",
+  "Juego": "Paises Bajos VS Argentina"
+},{
+  "_id": 59,
+  "Fase": "Cuartos de Final",
+  "Grupo": "FH",
+  "Juego": "Marruecos VS Portugal"
+},{
+  "_id": 60,
+  "Fase": "Cuartos de Final",
+  "Grupo": "BD",
+  "Juego": "Inglaterra VS Francia"
+},{
+  "_id": 61,
+  "Fase": "Semifinal",
+  "Grupo": "CF",
+  "Juego": "Argentina VS Croacia"
+},{
+  "_id": 62,
+  "Fase": "Semifinal",
+  "Grupo": "DF",
+  "Juego": "Francia VS Marruecos"
+},{
+  "_id": 63,
+  "Fase": "Tercer Puesto",
+  "Grupo": "FF",
+  "Juego": "Croacia VS Marruecos"
+},{
+  "_id": 64,
+  "Fase": "Final",
+  "Grupo": "CD",
+  "Juego": "Argentina VS Francia"
+}]

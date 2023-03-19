@@ -1,0 +1,321 @@
+[{
+  "_id": 1,
+  "Partido": 1,
+  "Ganador": "Ecuador",
+  "Hubo empate": false
+},{
+  "_id": 2,
+  "Partido": 2,
+  "Ganador": "Paises Bajos",
+  "Hubo empate": false
+},{
+  "_id": 3,
+  "Partido": 3,
+  "Ganador": "Senegal",
+  "Hubo empate": false
+},{
+  "_id": 4,
+  "_Partido": 4,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 5,
+  "_Partido": 5,
+  "Ganador": "Senegal",
+  "Hubo empate": false
+},{
+  "_id": 6,
+  "_Partido": 6,
+  "Ganador": "Paises Bajos",
+  "Hubo empate": false
+},{
+  "_id": 7,
+  "_Partido": 7,
+  "Ganador": "Inglaterra",
+  "Hubo empate": false
+},{
+  "_id": 8,
+  "_Partido": 8,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 9,
+  "_Partido": 9,
+  "Ganador": "Iran",
+  "Hubo empate": false
+},{
+  "_id": 10,
+  "_Partido": 10,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 11,
+  "_Partido": 11,
+  "Ganador": "Inglaterra",
+  "Hubo empate": false
+},{
+  "_id": 12,
+  "_Partido": 12,
+  "Ganador": "Estados Unidos",
+  "Hubo empate": false
+},{
+  "_id": 13,
+  "_Partido": 13,
+  "Ganador": "Arabia Saudita",
+  "Hubo empate": false
+},{
+  "_id": 14,
+  "_Partido": 14,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 15,
+  "_Partido": 15,
+  "Ganador": "Polonia",
+  "Hubo empate": false
+},{
+  "_id": 16,
+  "_Partido": 16,
+  "Ganador": "Argentina",
+  "Hubo empate": false
+},{
+  "_id": 17,
+  "_Partido": 17,
+  "Ganador": "Argentina",
+  "Hubo empate": false
+},{
+  "_id": 18,
+  "_Partido": 18,
+  "Ganador": "Mexico",
+  "Hubo empate": false
+},{
+  "_id": 19,
+  "_Partido": 19,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 20,
+  "_Partido": 20,
+  "Ganador": "Francia",
+  "Hubo empate": false
+},{
+  "_id": 21,
+  "_Partido": 21,
+  "Ganador": "Australia",
+  "Hubo empate": false
+},{
+  "_id": 22,
+  "_Partido": 22,
+  "Ganador": "Francia",
+  "Hubo empate": false
+},{
+  "_id": 23,
+  "_Partido": 23,
+  "Ganador": "Australia",
+  "Hubo empate": false
+},{
+  "_id": 24,
+  "_Partido": 24,
+  "Ganador": "Tunez",
+  "Hubo empate": false
+},{
+  "_id": 25,
+  "_Partido": 25,
+  "Ganador": "Japon",
+  "Hubo empate": false
+},{
+  "_id": 26,
+  "_Partido": 26,
+  "Ganador": "España",
+  "Hubo empate": false
+},{
+  "_id": 27,
+  "_Partido": 27,
+  "Ganador": "Costa Rica",
+  "Hubo empate": false
+},{
+  "_id": 28,
+  "_Partido": 28,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 29,
+  "_Partido": 29,
+  "Ganador": "Japon",
+  "Hubo empate": false
+},{
+  "_id": 30,
+  "_Partido": 30,
+  "Ganador": "Alemania",
+  "Hubo empate": false
+},{
+  "_id": 31,
+  "_Partido": 31,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 32,
+  "_Partido": 32,
+  "Ganador": "Belgica",
+  "Hubo empate": false
+},{
+  "_id": 33,
+  "_Partido": 33,
+  "Ganador": "Marruecos",
+  "Hubo empate": false
+},{
+  "_id": 34,
+  "_Partido": 34,
+  "Ganador": "Croacia",
+  "Hubo empate": false
+},{
+  "_id": 35,
+  "_Partido": 35,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 36,
+  "_Partido": 36,
+  "Ganador": "Marruecos",
+  "Hubo empate": false
+},{
+  "_id": 37,
+  "_Partido": 37,
+  "Ganador": "Suiza",
+  "Hubo empate": false
+},{
+  "_id": 38,
+  "_Partido": 38,
+  "Ganador": "Brasil",
+  "Hubo empate": false
+},{
+  "_id": 39,
+  "_Partido": 39,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 40,
+  "_Partido": 40,
+  "Ganador": "Brasil",
+  "Hubo empate": false
+},{
+  "_id": 41,
+  "_Partido": 41,
+  "Ganador": "Suiza",
+  "Hubo empate": false
+},{
+  "_id": 42,
+  "_Partido": 42,
+  "Ganador": "Camerun",
+  "Hubo empate": false
+},{
+  "_id": 43,
+  "_Partido": 43,
+  "Ganador": "NN",
+  "Hubo empate": true
+},{
+  "_id": 44,
+  "_Partido": 44,
+  "Ganador": "Portugal",
+  "Hubo empate": false
+},{
+  "_id": 45,
+  "_Partido": 45,
+  "Ganador": "Ghana",
+  "Hubo empate": false
+},{
+  "_id": 46,
+  "_Partido": 46,
+  "Ganador": "Portugal",
+  "Hubo empate": false
+},{
+  "_id": 47,
+  "_Partido": 47,
+  "Ganador": "Uruguay",
+  "Hubo empate": false
+},{
+  "_id": 48,
+  "_Partido": 48,
+  "Ganador": "Corea del Sur",
+  "Hubo empate": false
+},{
+  "_id": 49,
+  "_Partido": 49,
+  "Ganador": "Paises Bajos",
+  "Hubo empate": false
+},{
+  "_id": 50,
+  "_Partido": 50,
+  "Ganador": "Argentina",
+  "Hubo empate": false
+},{
+  "_id": 51,
+  "_Partido": 51,
+  "Ganador": "Francia",
+  "Hubo empate": false
+},{
+  "_id": 52,
+  "_Partido": 52,
+  "Ganador": "Inglaterra",
+  "Hubo empate": false
+},{
+  "_id": 53,
+  "_Partido": 53,
+  "Ganador": "Croacia",
+  "Hubo empate": false
+},{
+  "_id": 54,
+  "_Partido": 54,
+  "Ganador": "Brasil",
+  "Hubo empate": false
+},{
+  "_id": 55,
+  "_Partido": 55,
+  "Ganador": "Marruecos",
+  "Hubo empate": false
+},{
+  "_id": 56,
+  "_Partido": 56,
+  "Ganador": "Portugal",
+  "Hubo empate": false
+},{
+  "_id": 57,
+  "_Partido": 57,
+  "Ganador": "Croacia",
+  "Hubo empate": false
+},{
+  "_id": 58,
+  "_Partido": 58,
+  "Ganador": "Argentina",
+  "Hubo empate": false
+},{
+  "_id": 59,
+  "_Partido": 59,
+  "Ganador": "Marruecos",
+  "Hubo empate": false
+},{
+  "_id": 60,
+  "_Partido": 60,
+  "Ganador": "Francia",
+  "Hubo empate": false
+},{
+  "_id": 61,
+  "_Partido": 61,
+  "Ganador": "Argentina",
+  "Hubo empate": false
+},{
+  "_id": 62,
+  "_Partido": 62,
+  "Ganador": "Francia",
+  "Hubo empate": false
+},{
+  "_id": 63,
+  "_Partido": 63,
+  "Ganador": "Croacia",
+  "Hubo empate": false
+},{
+  "_id": 64,
+  "_Partido": 64,
+  "Ganador": "Argentina",
+  "Hubo empate": false
+}]

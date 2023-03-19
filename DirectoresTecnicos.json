@@ -1,0 +1,129 @@
+[{
+  "_id": 1,
+  "Nombre": "Gustavo Alfaro",
+  "Seleccion": "Ecuador"
+},{
+  "_id": 2,
+  "Nombre": "Aliou Cisse",
+  "Seleccion": "Senegal"
+},{
+  "_id": 3,
+  "Nombre": "Louis Van Gaal",
+  "Seleccion": "Paises Bajos"
+},{
+  "_id": 4,
+  "Nombre": "Felix Sanchez Bas",
+  "Seleccion": "Catar"
+},{
+  "_id": 5,
+  "Nombre": "Dragan Skočić",
+  "Seleccion": "Iran"
+},{
+  "_id": 6,
+  "Nombre": "Gareth Southgate",
+  "Seleccion": "Inglaterra"
+},{
+  "_id": 7,
+  "Nombre": "Gregg Berhalter",
+  "Seleccion": "Estados Unidos"
+},{
+  "_id": 8,
+  "Nombre": "Rob Page",
+  "Seleccion": "Gales"
+},{
+  "_id": 9,
+  "Nombre": "Lionel Scaloni",
+  "Seleccion": "Argentina"
+},{
+  "_id": 10,
+  "Nombre": "Herve Renard",
+  "Seleccion": "Arabia Saudita"
+},{
+  "_id": 11,
+  "Nombre": "Gerardo Martino",
+  "Seleccion": "Mexico"
+},{
+  "_id": 12,
+  "Nombre": "Czesław Michniewicz",
+  "Seleccion": "Polonia"
+},{
+  "_id": 13,
+  "Nombre": "Didier Deschamps",
+  "Seleccion": "Francia"
+},{
+  "_id": 14,
+  "Nombre": "Graham Arnold",
+  "Seleccion": "Australia"
+},{
+  "_id": 15,
+  "Nombre": "Kasper Hjulmand",
+  "Seleccion": "Dinamarca"
+},{
+  "_id": 16,
+  "Nombre": "Jalel Kadri",
+  "Seleccion": "Tunez"
+},{
+  "_id": 17,
+  "Nombre": "Luis Enrique",
+  "Seleccion": "España"
+},{
+  "_id": 18,
+  "Nombre": "Luis Fernando Suarez",
+  "Seleccion": "Costa Rica"
+},{
+  "_id": 19,
+  "Nombre": "Hansi Flick",
+  "Seleccion": "Alemania"
+},{
+  "_id": 20,
+  "Nombre": "Hajime Moriyasu",
+  "Seleccion": "Japon"
+},{
+  "_id": 21,
+  "Nombre": "Roberto Martinez",
+  "Seleccion": "Belgica"
+},{
+  "_id": 22,
+  "Nombre": "John Herdman",
+  "Seleccion": "Canada"
+},{
+  "_id": 23,
+  "Nombre": "Vahid Halilhodžić",
+  "Seleccion": "Marruecos"
+},{
+  "_id": 24,
+  "Nombre": "Zlatko Dalić",
+  "Seleccion": "Croacia"
+},{
+  "_id": 25,
+  "Nombre": "Adenor Leonardo Bacchi",
+  "Seleccion": "Brasil"
+},{
+  "_id": 26,
+  "Nombre": "Dragan Stojković",
+  "Seleccion": "Serbia"
+},{
+  "_id": 27,
+  "Nombre": "Murat Yakin",
+  "Seleccion": "Suiza"
+},{
+  "_id": 28,
+  "Nombre": "Rigobert Song",
+  "Seleccion": "Camerun"
+},{
+  "_id": 29,
+  "Nombre": "Fernando Manuel Costa Santos",
+  "Seleccion": "Portugal"
+},{
+  "_id": 30,
+  "Nombre": "Otto Addo",
+  "Seleccion": "Ghana"
+},{
+  "_id": 31,
+  "Nombre": "Diego Alonso",
+  "Seleccion": "Uruguay"
+},{
+  "_id": 32,
+  "Nombre": "Paulo Bento",
+  "Seleccion": "Corea del Sur"
+}]
